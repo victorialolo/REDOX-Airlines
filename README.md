@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This Excel project aims to provide insights into the performance of REDOX Airlines company over the years. By analzing various aspects of the data, we seek to reduce redundance, identify sales trends, monitor the Aircraft through tracking and monitoring of KPIS and make data driven recommendations to drive the business growth and position in the industry.
+This Excel project aims to provide insights into the performance of **_REDOX Airlines_** company over the years. By analzing various aspects of the data, we seek to reduce redundance, identify sales trends, monitor the Aircraft through tracking and monitoring of KPIS and make data driven recommendations to drive the business growth and position in the industry.
 
 ## Objective
 Here are ideas of how these reports will be used:
