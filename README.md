@@ -64,47 +64,49 @@ Understanding the dataset first was a crusial part of this project and the follo
 -  A new column was created to get the day name of the week.
 
 ## Modelling:
-The best type of model in power Bi is the star schema, an automatically derived dimension table was adjusted to remove and replace unwanted relationship.
+The four dataset was merged as one using the INDEX MATCH excel formula to form a single dataset.
 
-![](Reydox_Table.Png)
+![](Reydox_Table.PNG)
 
-The model is a star schema.
-There are 5 dimenstion tables and 2 fact tables. The dimension tables are all joined to the fact tables with one-to-many- relationship.
+There are 3 dimenstion tables and 1 fact table. The dimension tables are all joined to the fact tables.
 
 ## Visualization:
 
-The report comprises of 3 pages:
-1.  Sales Overview
-2.  Marketing Performance
-3.  Insights and Recommendations
+This is a one page excel dashboard of Redox Airlines analysis.
 
-You can interact with the dashboard  
-[here](https://app.powerbi.com/view?r=eyJrIjoiODRlMGZhM2UtM2MzYi00ZjYxLTgwNGMtZDMxYmZmYjU4NzdkIiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
+![](Redox_Dashboard.PNG)
 
 ## Analysis:
 
 Here, we could discover the following insights.
 
-## Sales Overview: 
+## Insights
+1.  Flight Overview: The data is a 2 years data (2014 and 2015), the airline operated a total of 9,636 flights, with three aircraft types—B737, A319, and A320.
+  - A total number of 3,879 flights used the A319 aircraft. The B737 emerged as the most commonly used aircraft with a total of 4,459 flights.
+  - The highest average ticket price for A320 flights, reaching $5,500.
 
-![](SalesOverview.png)
+2.  Financial Overview: The airline's total revenue after tax stood impressively at $531,225,803. Fuel costs were significant, amounting to $3,412,865 per mile.
+  - The B737 aircraft type proved to be the most financially rewarding, contributing $259,200,629 in revenue with a remarkable 49% growth.
 
-- The Total Revenue was $11.12bn
-- The total Target was $8.45bn
-- The Revenue YTD was $2.66bn against the Target YTD of $2.43.
-- Pharmacy Channel generated a total of 52.9% revenue  higher than Hospital 47.1% revenue.
+4.  Route Performance: The ORD-LAX route displayed a high performance, securing the highest revenue at $51,138,857, ORD-SFO followed closely with $46,649,708, while ORD-SLC reported the     lowest revenue among the routes, amounting to $2,165,882.
+  - Also, the ORD-SLC route held the lowest percentage of total revenue at 0.41%.
 
-## Marketing Performance:
+6.  Fort Lauderdale Airport (FLL): FLL experienced its peak in flight demand during June, with a total of 26 flights, making it the most popular month for air travel to this destination.
+  - October witnessed the lowest flight demand, with only 4 flights recorded.
 
-![](Marketing.png)
+7.  ORD - PHL Route: The ORD - PHL route observed a surge in flight demand during November, with a total of 33 flights, marking it the most popular month for air travel on this specific     route.
+  - March reported the lowest demand, with only 17 flights recorded during the period.
 
--  There are 240 products.
--  Each product price cost $412.57 on average.
+## Recommendations:
+  - Redox Airlines should strategically focus on marketing and services for the B737, given its consistent profitability.
+  - Investigate the success factors at LAX and consider replicating strategies in other airports.
+  - Explore expansion opportunities on the ORD-PHL route, especially during the high-demand month of November.
+  - Implement targeted promotions during low-demand months, such as October, to stimulate flight bookings.
+  - Analyze factors contributing to FLL's popularity in June and consider adapting strategies for other months or locations.
+  - Devise initiatives to increase revenue on the ORD-SLC route, addressing its current low contribution to overall revenue.
 
-## Recommendation
--  It's positive that the total revenue from 2022-2025 exceeded the target revenue, indicating overall success.
--  Identify underperforming products and develop strategies for improvement.
--  Assess why the Pharmacy Channel outperformed the Hospital Channel. Identify strategies from the Pharmacy Channel that can be implemented in the Hospital Channel to boost revenue.
+You can interact with the dashboard  
+[here](https://1drv.ms/x/s!AnzTT-iwuQmzglgohvON5u3157s0)
 
 You can connect with me ![here](https://www.linkedin.com/in/victoriaogwuche/)
 
