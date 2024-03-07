@@ -82,7 +82,7 @@ This is a one page excel dashboard of Redox Airlines analysis.
 Here, we could discover the following insights.
 
 ## Insights
-1.  Flight Overview: The data is a 2 years data (2014 and 2015), the airline operated a total of 9,636 flights, with three aircraft types—B737, A319, and A320.
+1.  Flight Overview: The data is a 2 years data (2014 and 2015), the airline operated a total of 9,636 flights, with three aircraft types B737, A319 and A320.
   - A total number of 3,879 flights used the A319 aircraft. The B737 emerged as the most commonly used aircraft with a total of 4,459 flights.
   - The highest average ticket price for A320 flights, reaching $5,500.
 
