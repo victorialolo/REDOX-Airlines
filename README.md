@@ -18,11 +18,12 @@ Here are ideas of how these reports will be used:
 ## Data Sources
 The Primary dataset used for this project is the Flights data, Aircraft data, Routes data and Airports data containing detailed information about the revenue made, routes and aircraft of the company.
 
-## Problem statement/ Requirement.
+## Problem statement / Requirement.
 
 The airline's management team has a strong airline operations background, but the current data setup is messy and inefficient. Getting specific aircraft details such as route and seating capacity requires comparing multiple files, slowing down operations. This disjointed system prevents quick and informed decision-making. For a start, a couple of numbers have been identified to be reported in their data as reports.
 
 A one page dashboard
+
 Case 1
   - How many flights use the A319 aircraft?
   - What is the most common type of aircraft across all flights?
@@ -50,7 +51,7 @@ Case 7
 Case 8
   - Create a visual representation to show the number of flights per month on the ORD-PHL route
 
-Skills/ Concepts demonstrated:
+## Skills/ Concepts demonstrated:
 -  Excel advance formulas(Sum, INDEX MATCH, Multiplication, TEXT)
 -  Pivot Tables
 -  Pivot Charts
